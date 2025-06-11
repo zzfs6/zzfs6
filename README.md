@@ -1,3 +1,3 @@
-Moved to gitlab.
+Moved to website
 
-https://gitlab.com/zzfs
+https://zzfs.home.kg
